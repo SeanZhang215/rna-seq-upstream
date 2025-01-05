@@ -1,6 +1,6 @@
 # RNA-seq Upstream Analysis Pipeline
 
-A streamlined pipeline for processing Seq-Well RNA sequencing data, focusing on basic upstream analysis steps.
+A streamlined pipeline for processing RNA sequencing data, focusing on basic upstream analysis steps.
 
 ## Overview
 
